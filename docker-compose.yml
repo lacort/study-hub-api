@@ -1,0 +1,13 @@
+version: '3.8'
+services:
+  study-hub-api:
+    container_name: study-hub-api
+    image: nodejs22
+    tty: true
+    working_dir: /var/app
+    volumes:
+      - ../study-hub-api:/var/app
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=development
