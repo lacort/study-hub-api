@@ -9,5 +9,4 @@ services:
       - ../study-hub-api:/var/app
     ports:
       - "3000:3000"
-    environment:
-      - NODE_ENV=development
+    #command: sh -c "npm install && npm run dev"
