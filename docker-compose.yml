@@ -1,12 +1,31 @@
-version: '3.8'
+version: "3.8"
 services:
+  study.mongo:
+    container_name: study.mongo
+    image: mongo:7.0
+    ports:
+      - 27017:27017
+    volumes:
+      - ../study-mongo-data:/data/db
+    command: [ "--auth", "--storageEngine", "wiredTiger" ]
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: abc123
   study-hub-api:
     container_name: study-hub-api
     image: nodejs22
     tty: true
     working_dir: /var/app
+    #command: sh -c "npm install && npm run dev"
     volumes:
       - ../study-hub-api:/var/app
     ports:
-      - "3000:3000"
-    #command: sh -c "npm install && npm run dev"
+      - 8080:80
+      - 8433:433
+    env_file:
+      - ../../nextqs/next.environment/globals.env
+      - ../../nextqs/next.environment/nodejs.env
+    depends_on:
+      - study.mongo
+    links:
+      - study.mongo:mongo
