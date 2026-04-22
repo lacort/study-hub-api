@@ -23,8 +23,8 @@ services:
       - 8080:80
       - 8433:433
     env_file:
-      - ../../nextqs/next.environment/globals.env
-      - ../../nextqs/next.environment/nodejs.env
+      - ../study.environment/globals.env
+      - ../study.environment/nodejs.env
     depends_on:
       - study.mongo
     links:

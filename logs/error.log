@@ -1,0 +1,108 @@
+{"level":"error","message":"Failed to connect to MongoDB connect ECONNREFUSED 127.0.0.1:27017","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":null,"stale":false,"type":"Unknown"},"stack":"MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017\n    at _handleConnectionErrors (/var/app/node_modules/mongoose/lib/connection.js:816:11)\n    at NativeConnection.openUri (/var/app/node_modules/mongoose/lib/connection.js:791:11)\n    at async connect (file:///var/app/src/components/mongo.js:13:5)\n    at async start (file:///var/app/server.js:30:3)"}
+{"level":"error","message":"Failed to start server connect ECONNREFUSED 127.0.0.1:27017","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":null,"stale":false,"type":"Unknown"},"stack":"MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017\n    at _handleConnectionErrors (/var/app/node_modules/mongoose/lib/connection.js:816:11)\n    at NativeConnection.openUri (/var/app/node_modules/mongoose/lib/connection.js:791:11)\n    at async connect (file:///var/app/src/components/mongo.js:13:5)\n    at async start (file:///var/app/server.js:30:3)"}
+{"level":"error","message":"Failed to connect to MongoDB connect ECONNREFUSED 127.0.0.1:27017","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":null,"stale":false,"type":"Unknown"},"stack":"MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017\n    at _handleConnectionErrors (/var/app/node_modules/mongoose/lib/connection.js:816:11)\n    at NativeConnection.openUri (/var/app/node_modules/mongoose/lib/connection.js:791:11)\n    at async connect (file:///var/app/src/components/mongo.js:13:5)\n    at async start (file:///var/app/server.js:29:5)"}
+{"level":"error","message":"Failed to start server connect ECONNREFUSED 127.0.0.1:27017","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":null,"stale":false,"type":"Unknown"},"stack":"MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017\n    at _handleConnectionErrors (/var/app/node_modules/mongoose/lib/connection.js:816:11)\n    at NativeConnection.openUri (/var/app/node_modules/mongoose/lib/connection.js:791:11)\n    at async connect (file:///var/app/src/components/mongo.js:13:5)\n    at async start (file:///var/app/server.js:29:5)"}
+{"level":"error","message":"### DISCONNECTED to MongoDB Study"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongooseServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### DISCONNECTED to MongoDB Study"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongooseServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### DISCONNECTED to MongoDB Study"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongooseServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### DISCONNECTED to MongoDB Study"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongooseServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### DISCONNECTED to MongoDB Study"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongooseServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### DISCONNECTED to MongoDB Study"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongooseServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### DISCONNECTED to MongoDB Study"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongooseServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### DISCONNECTED to MongoDB Study"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongooseServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### DISCONNECTED to MongoDB Study"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongooseServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### DISCONNECTED to MongoDB Study"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongooseServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### DISCONNECTED to MongoDB Study"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongooseServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### DISCONNECTED to MongoDB Study"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongooseServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### DISCONNECTED to MongoDB Study"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongooseServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### DISCONNECTED to MongoDB Study"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongooseServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### DISCONNECTED to MongoDB Study"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongooseServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### DISCONNECTED to MongoDB Study"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongooseServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### DISCONNECTED to MongoDB Study"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongooseServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### DISCONNECTED to MongoDB Study"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongooseServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### DISCONNECTED to MongoDB Study"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongooseServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### DISCONNECTED to MongoDB Study"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongooseServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### DISCONNECTED to MongoDB Study"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongooseServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### DISCONNECTED to MongoDB Study"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongooseServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### DISCONNECTED to MongoDB Study"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongooseServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### DISCONNECTED to MongoDB Study"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongooseServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### DISCONNECTED to MongoDB Study"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongooseServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### DISCONNECTED to MongoDB Study"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongooseServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### DISCONNECTED to MongoDB Study"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongooseServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### DISCONNECTED to MongoDB Study"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongooseServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### DISCONNECTED to MongoDB Study"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongooseServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### DISCONNECTED to MongoDB Study"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongooseServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### DISCONNECTED to MongoDB Study"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongooseServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### DISCONNECTED to MongoDB Study"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongooseServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### DISCONNECTED to MongoDB Study"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongooseServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### DISCONNECTED to MongoDB Study"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongooseServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoServerSelectionError: getaddrinfo ENOTFOUND next.mongo"}
+{"level":"error","message":"### DISCONNECTED to MongoDB Study"}
+{"error":"TypeError","level":"error","message":"Cannot read properties of undefined (reading 'teste')","method":"GET","path":"/v1/study/check","stack":"TypeError: Cannot read properties of undefined (reading 'teste')\n    at Study.getCheck (file:///var/app/app/components/study.js:16:30)\n    at getCheck (/var/app/app/controllers/v1/studyController.js:25:21)\n    at Layer.handleRequest (/var/app/node_modules/router/lib/layer.js:152:17)\n    at next (/var/app/node_modules/router/lib/route.js:157:13)\n    at isMongoConnected (file:///var/app/app/components/mongoTools.js:25:9)\n    at Layer.handleRequest (/var/app/node_modules/router/lib/layer.js:152:17)\n    at next (/var/app/node_modules/router/lib/route.js:157:13)\n    at Route.dispatch (/var/app/node_modules/router/lib/route.js:117:3)\n    at handle (/var/app/node_modules/router/index.js:435:11)\n    at Layer.handleRequest (/var/app/node_modules/router/lib/layer.js:152:17)"}

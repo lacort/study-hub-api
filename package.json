@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev": "tsx watch server.ts"
+    "dev": "tsx watch server.js"
   },
   "repository": {
     "type": "git",
@@ -22,8 +22,13 @@
     "body-parser": "^2.2.2",
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
+    "express-mongo-sanitize": "^2.2.0",
+    "helmet": "^8.1.0",
     "http": "^0.0.1-security",
-    "tsx": "^4.21.0"
+    "mongo-sanitize": "^1.1.0",
+    "mongoose": "^7.8.9",
+    "tsx": "^4.21.0",
+    "winston": "^3.19.0"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Node.js Backend Architect"
+  short_description: "Design node.js mongodb backends, github issues, models, endpoints, validation, swagger, and mcp-ready service boundaries."
+  category: "development"
