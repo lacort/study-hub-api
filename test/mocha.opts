@@ -1,0 +1,5 @@
+--recursive ./test/unit/components/*.js
+--recursive ./test/unit/models/*.js
+--recursive ./test/functional/*.js
+--file ./test/teardown.js
+--exit

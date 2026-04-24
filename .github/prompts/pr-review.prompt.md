@@ -1,1 +1,0 @@
-../../.cursor/prompts/pr-review.md
