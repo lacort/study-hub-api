@@ -1,4 +1,6 @@
 'use strict'
+import dotenv from 'dotenv'
+import UserModel from '../modules/userModel.js'
 
 /**
  * @class

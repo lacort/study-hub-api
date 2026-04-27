@@ -162,3 +162,89 @@
 {"level":"error","message":"### ERROR connecting with MongoDB (SANDBOX)"}
 {"level":"error","message":"### ERROR connecting with MongoDB (PROD)"}
 {"level":"error","message":"### ERROR connecting with MongoDB (test)"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoParseError: option redirectconnection is not supported"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoParseError: option redirectconnection is not supported"}
+{"level":"error","message":"### ERROR connecting with MongoDB (PROCESS_ENV)"}
+{"level":"error","message":"### ERROR connecting with MongoDB (dev)"}
+{"level":"error","message":"### ERROR connecting with MongoDB (SANDBOX)"}
+{"level":"error","message":"### ERROR connecting with MongoDB (PROD)"}
+{"level":"error","message":"### ERROR connecting with MongoDB (test)"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoParseError: option redirectconnection is not supported"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoParseError: option redirectconnection is not supported"}
+{"level":"error","message":"### ERROR connecting with MongoDB (PROCESS_ENV)"}
+{"level":"error","message":"### ERROR connecting with MongoDB (dev)"}
+{"level":"error","message":"### ERROR connecting with MongoDB (SANDBOX)"}
+{"level":"error","message":"### ERROR connecting with MongoDB (PROD)"}
+{"level":"error","message":"### ERROR connecting with MongoDB (test)"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoParseError: option redirectconnection is not supported"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoParseError: option redirectconnection is not supported"}
+{"level":"error","message":"### ERROR connecting with MongoDB (PROCESS_ENV)"}
+{"level":"error","message":"### ERROR connecting with MongoDB (dev)"}
+{"level":"error","message":"### ERROR connecting with MongoDB (SANDBOX)"}
+{"level":"error","message":"### ERROR connecting with MongoDB (PROD)"}
+{"level":"error","message":"### ERROR connecting with MongoDB (test)"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoParseError: option redirectconnection is not supported"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoParseError: option redirectconnection is not supported"}
+{"level":"error","message":"### ERROR connecting with MongoDB (PROCESS_ENV)"}
+{"level":"error","message":"### ERROR connecting with MongoDB (dev)"}
+{"level":"error","message":"### ERROR connecting with MongoDB (SANDBOX)"}
+{"level":"error","message":"### ERROR connecting with MongoDB (PROD)"}
+{"level":"error","message":"### ERROR connecting with MongoDB (test)"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoParseError: option redirectconnection is not supported"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoParseError: option redirectconnection is not supported"}
+{"level":"error","message":"### ERROR connecting with MongoDB (PROCESS_ENV)"}
+{"level":"error","message":"### ERROR connecting with MongoDB (dev)"}
+{"level":"error","message":"### ERROR connecting with MongoDB (SANDBOX)"}
+{"level":"error","message":"### ERROR connecting with MongoDB (PROD)"}
+{"level":"error","message":"### ERROR connecting with MongoDB (test)"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: undefined"}
+{"level":"error","message":"### RECONNECT FAILED to MongoDB Study"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoParseError: option redirectconnection is not supported"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoParseError: option redirectconnection is not supported"}
+{"level":"error","message":"### ERROR connecting with MongoDB (PROCESS_ENV)"}
+{"level":"error","message":"### ERROR connecting with MongoDB (dev)"}
+{"level":"error","message":"### ERROR connecting with MongoDB (SANDBOX)"}
+{"level":"error","message":"### ERROR connecting with MongoDB (PROD)"}
+{"level":"error","message":"### ERROR connecting with MongoDB (test)"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: undefined"}
+{"level":"error","message":"### RECONNECT FAILED to MongoDB Study"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoParseError: option redirectconnection is not supported"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoParseError: option redirectconnection is not supported"}
+{"level":"error","message":"### ERROR connecting with MongoDB (PROCESS_ENV)"}
+{"level":"error","message":"### ERROR connecting with MongoDB (dev)"}
+{"level":"error","message":"### ERROR connecting with MongoDB (SANDBOX)"}
+{"level":"error","message":"### ERROR connecting with MongoDB (PROD)"}
+{"level":"error","message":"### ERROR connecting with MongoDB (test)"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: undefined"}
+{"level":"error","message":"### RECONNECT FAILED to MongoDB Study"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoParseError: option redirectconnection is not supported"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoParseError: option redirectconnection is not supported"}
+{"level":"error","message":"### ERROR connecting with MongoDB (PROCESS_ENV)"}
+{"level":"error","message":"### ERROR connecting with MongoDB (dev)"}
+{"level":"error","message":"### ERROR connecting with MongoDB (SANDBOX)"}
+{"level":"error","message":"### ERROR connecting with MongoDB (PROD)"}
+{"level":"error","message":"### ERROR connecting with MongoDB (test)"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: undefined"}
+{"level":"error","message":"### RECONNECT FAILED to MongoDB Study"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoParseError: option redirectconnection is not supported"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoParseError: option redirectconnection is not supported"}
+{"level":"error","message":"### ERROR connecting with MongoDB (PROCESS_ENV)"}
+{"level":"error","message":"### ERROR connecting with MongoDB (dev)"}
+{"level":"error","message":"### ERROR connecting with MongoDB (SANDBOX)"}
+{"level":"error","message":"### ERROR connecting with MongoDB (PROD)"}
+{"level":"error","message":"### ERROR connecting with MongoDB (test)"}
+{"level":"error","message":"MongoTools.isMongoConnected: ### DISCONNECTED to MongoDB Study"}
+{"level":"error","message":"MongoTools.isMongoConnected: ### DISCONNECTED to MongoDB Study"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: undefined"}
+{"level":"error","message":"### RECONNECT FAILED to MongoDB Study"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoParseError: option redirectconnection is not supported"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: MongoParseError: option redirectconnection is not supported"}
+{"level":"error","message":"### ERROR connecting with MongoDB (PROCESS_ENV)"}
+{"level":"error","message":"### ERROR connecting with MongoDB (dev)"}
+{"level":"error","message":"### ERROR connecting with MongoDB (SANDBOX)"}
+{"level":"error","message":"### ERROR connecting with MongoDB (PROD)"}
+{"level":"error","message":"### ERROR connecting with MongoDB (test)"}
+{"level":"error","message":"MongoTools.isMongoConnected: ### DISCONNECTED to MongoDB Study"}
+{"level":"error","message":"MongoTools.isMongoConnected: ### DISCONNECTED to MongoDB Study"}
+{"level":"error","message":"### ERROR connecting with MongoDB Study: undefined"}
+{"level":"error","message":"### RECONNECT FAILED to MongoDB Study"}
